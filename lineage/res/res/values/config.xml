@@ -302,16 +302,6 @@
          accidental unlocks when the screen is off. -->
     <bool name="config_proximityCheckOnFpsUnlock">false</bool>
 
-    <!-- The list of components which should be automatically disabled for a specific device.
-         Note: this MUST not be used to randomly disable components, ask for approval first! -->
-    <string-array name="config_deviceDisabledComponents" translatable="false" />
-
-    <!-- The list of components which should be automatically disabled for all devices. -->
-    <string-array name="config_globallyDisabledComponents" translatable="false" />
-
-    <!-- The list of components which should be forced to be enabled. -->
-    <string-array name="config_forceEnabledComponents" translatable="false" />
-
     <!-- Whether charging control should be enabled by default -->
     <bool name="config_chargingControlEnabled">false</bool>
 
