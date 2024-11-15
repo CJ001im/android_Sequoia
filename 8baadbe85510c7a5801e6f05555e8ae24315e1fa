@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9fbe4958_c97c278d",
+        "filename": "lineage/lib/main/java/org/lineageos/platform/internal/ProfileTriggerHelper.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-11-15T21:40:54Z",
+      "side": 1,
+      "message": "Here as well.",
+      "revId": "8baadbe85510c7a5801e6f05555e8ae24315e1fa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ad696114_04d89324",
+        "filename": "lineage/lib/main/java/org/lineageos/platform/internal/common/LineageSystemServiceHelper.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-11-15T21:40:54Z",
+      "side": 1,
+      "message": "Update header here too.",
+      "revId": "8baadbe85510c7a5801e6f05555e8ae24315e1fa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
