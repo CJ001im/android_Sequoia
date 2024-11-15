@@ -1,5 +1,6 @@
 /*
  * SPDX-FileCopyrightText: 2016 The CyanogenMod Project
+ * SPDX-FileCopyrightText: 2024 The LineageOS Project
  * SPDX-License-Identifier: Apache-2.0
  */
 package org.lineageos.platform.internal.display;
@@ -17,9 +18,9 @@ import java.util.ArrayList;
 import java.util.BitSet;
 import java.util.List;
 
-import lineageos.hardware.LineageHardwareManager;
 import lineageos.hardware.DisplayMode;
 import lineageos.hardware.HSIC;
+import lineageos.hardware.LineageHardwareManager;
 import lineageos.hardware.LiveDisplayManager;
 import lineageos.providers.LineageSettings;
 

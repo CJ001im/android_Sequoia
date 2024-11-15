@@ -5,6 +5,10 @@
  */
 package org.lineageos.platform.internal.display;
 
+import static lineageos.hardware.LiveDisplayManager.MODE_FIRST;
+import static lineageos.hardware.LiveDisplayManager.MODE_LAST;
+import static lineageos.hardware.LiveDisplayManager.MODE_OFF;
+
 import android.app.Notification;
 import android.app.NotificationManager;
 import android.app.PendingIntent;
@@ -43,10 +47,6 @@ import lineageos.hardware.HSIC;
 import lineageos.hardware.ILiveDisplayService;
 import lineageos.hardware.LiveDisplayConfig;
 import lineageos.providers.LineageSettings;
-
-import static lineageos.hardware.LiveDisplayManager.MODE_FIRST;
-import static lineageos.hardware.LiveDisplayManager.MODE_LAST;
-import static lineageos.hardware.LiveDisplayManager.MODE_OFF;
 
 /**
  * LiveDisplay is an advanced set of features for improving

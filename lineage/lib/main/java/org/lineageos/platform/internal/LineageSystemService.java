@@ -6,6 +6,7 @@
 package org.lineageos.platform.internal;
 
 import android.content.Context;
+
 import com.android.server.SystemService;
 
 public abstract class LineageSystemService extends SystemService {

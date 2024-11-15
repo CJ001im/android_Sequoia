@@ -18,19 +18,19 @@ import android.content.pm.PackageManager;
 import android.os.IBinder;
 import android.os.SELinux;
 import android.os.SystemProperties;
+import android.text.TextUtils;
 import android.util.Log;
 import android.util.Pair;
-import android.text.TextUtils;
-
-import lineageos.app.LineageContextConstants;
-import lineageos.providers.LineageSettings;
-import lineageos.trust.ITrustInterface;
-import lineageos.trust.TrustInterface;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
+
+import lineageos.app.LineageContextConstants;
+import lineageos.providers.LineageSettings;
+import lineageos.trust.ITrustInterface;
+import lineageos.trust.TrustInterface;
 
 /** @hide **/
 public class TrustInterfaceService extends LineageSystemService {

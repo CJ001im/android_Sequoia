@@ -5,6 +5,11 @@
  */
 package org.lineageos.platform.internal.display;
 
+import static lineageos.hardware.LiveDisplayManager.MODE_AUTO;
+import static lineageos.hardware.LiveDisplayManager.MODE_DAY;
+import static lineageos.hardware.LiveDisplayManager.MODE_NIGHT;
+import static lineageos.hardware.LiveDisplayManager.MODE_OFF;
+
 import android.animation.ValueAnimator;
 import android.content.Context;
 import android.net.Uri;
@@ -24,11 +29,6 @@ import lineageos.hardware.LineageHardwareManager;
 import lineageos.hardware.LiveDisplayManager;
 import lineageos.providers.LineageSettings;
 import lineageos.util.ColorUtils;
-
-import static lineageos.hardware.LiveDisplayManager.MODE_AUTO;
-import static lineageos.hardware.LiveDisplayManager.MODE_DAY;
-import static lineageos.hardware.LiveDisplayManager.MODE_NIGHT;
-import static lineageos.hardware.LiveDisplayManager.MODE_OFF;
 
 public class ColorTemperatureController extends LiveDisplayFeature {
 
