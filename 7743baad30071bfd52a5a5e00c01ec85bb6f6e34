@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "64f7360b_74720195",
+        "filename": "lineage/lib/main/java/org/lineageos/platform/internal/LineageGlobalActionsService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-11-15T21:44:36Z",
+      "side": 1,
+      "message": "same here",
+      "revId": "7743baad30071bfd52a5a5e00c01ec85bb6f6e34",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "42af5285_55c4dd6f",
+        "filename": "lineage/lib/main/java/org/lineageos/platform/internal/ProfileManagerService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-11-15T21:44:36Z",
+      "side": 1,
+      "message": "same",
+      "revId": "7743baad30071bfd52a5a5e00c01ec85bb6f6e34",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "de8cd726_1782fcf4",
+        "filename": "lineage/lib/main/java/org/lineageos/platform/internal/ProfileTriggerHelper.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-11-15T21:44:36Z",
+      "side": 1,
+      "message": "same",
+      "revId": "7743baad30071bfd52a5a5e00c01ec85bb6f6e34",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a919fbd4_8fe8f52b",
+        "filename": "lineage/lib/main/java/org/lineageos/platform/internal/TrustInterfaceService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-11-15T21:44:36Z",
+      "side": 1,
+      "message": "same",
+      "revId": "7743baad30071bfd52a5a5e00c01ec85bb6f6e34",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "539ec63e_a1b3cf12",
+        "filename": "lineage/lib/main/java/org/lineageos/platform/internal/health/ChargingControlController.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-11-15T21:44:36Z",
+      "side": 1,
+      "message": "I would say that these come before java imports.",
+      "revId": "7743baad30071bfd52a5a5e00c01ec85bb6f6e34",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "67b17c1b_e74a957f",
+        "filename": "lineage/lib/main/java/org/lineageos/platform/internal/health/HealthInterfaceService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-11-15T21:44:36Z",
+      "side": 1,
+      "message": "java imports should come last",
+      "revId": "7743baad30071bfd52a5a5e00c01ec85bb6f6e34",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
