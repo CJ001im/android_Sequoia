@@ -1,5 +1,6 @@
 /*
  * SPDX-FileCopyrightText: 2013-2014 The CyanogenMod Project
+ * SPDX-FileCopyrightText: 2024 The LineageOS Project
  * SPDX-License-Identifier: Apache-2.0
  */
 
@@ -17,6 +18,7 @@ import android.net.wifi.WifiManager;
 import android.os.Handler;
 import android.os.UserHandle;
 import android.util.Log;
+
 import lineageos.app.Profile;
 import lineageos.app.Profile.ProfileTrigger;
 import lineageos.app.ProfileManager;
