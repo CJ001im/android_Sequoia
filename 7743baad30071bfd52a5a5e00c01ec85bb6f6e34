@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "e1adc1c9_50ee743a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2024-11-16T22:14:17Z",
+      "side": 1,
+      "message": "https://source.android.com/docs/setup/contribute/code-style#order-import-statements\n\"Put static imports above all the other imports ordered the same way as regular imports.\"",
+      "revId": "7743baad30071bfd52a5a5e00c01ec85bb6f6e34",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "64f7360b_74720195",
