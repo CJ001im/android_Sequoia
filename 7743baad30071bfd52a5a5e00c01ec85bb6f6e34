@@ -192,6 +192,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "411f99fb_f0822d73",
+        "filename": "lineage/lib/main/java/org/lineageos/platform/internal/health/ChargingControlController.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2024-11-17T20:45:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "539ec63e_a1b3cf12",
+      "revId": "7743baad30071bfd52a5a5e00c01ec85bb6f6e34",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "67b17c1b_e74a957f",
@@ -223,6 +241,24 @@
       "side": 1,
       "message": "true",
       "parentUuid": "67b17c1b_e74a957f",
+      "revId": "7743baad30071bfd52a5a5e00c01ec85bb6f6e34",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1cdfa1b2_e704d8ab",
+        "filename": "lineage/lib/main/java/org/lineageos/platform/internal/health/HealthInterfaceService.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2024-11-17T20:45:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "93e03f2d_36226e31",
       "revId": "7743baad30071bfd52a5a5e00c01ec85bb6f6e34",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }

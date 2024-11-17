@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9f395b49_ec7402da",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2024-11-17T20:45:24Z",
+      "side": 1,
+      "message": "Hope I didn\u0027t overlook any, but should be fine now?\nWas unsure about blank lines in static import blocks, kept them out",
+      "revId": "1f945a65d04c24669d660792845bb9c265a2a0e2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
